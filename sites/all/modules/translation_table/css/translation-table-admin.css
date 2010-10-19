@@ -1,0 +1,18 @@
+/* $Id: translation-table-admin.css,v 1.2 2010/08/13 14:25:09 drifter Exp $ */
+
+#translation-table-filter .translation-table-filter {
+  margin-left: 30px;
+  float: left;
+}
+
+#translation-table-filter #translation-table-languages-selected-filter {
+  margin-left: 0;
+}
+
+#translation-table {
+  clear: both;
+}
+
+#translation-table td.translation-source {
+  min-width: 250px;
+}

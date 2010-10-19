@@ -1,0 +1,136 @@
+# Hungarian translation of translation_table (6.x-1.0-rc2)
+# Copyright (c) 2009 by the Hungarian translation team
+# Generated from files:
+#  admin.inc,v 1.1.2.7 2009/06/16 04:55:21 pasqualle
+#  translation_table.module,v 1.1.2.2 2009/05/26 05:19:59 pasqualle
+#  translation_table.info,v 1.1.2.2 2009/05/26 05:19:59 pasqualle
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: translation_table (6.x-1.0-rc2)\n"
+"POT-Creation-Date: 2009-09-12 22:26+0200\n"
+"PO-Revision-Date: 2008-11-23 14:21+0100\n"
+"Language-Team: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: includes/admin.inc:25
+msgid "Operations"
+msgstr "Műveletek"
+
+#: includes/admin.inc:419,366,332
+msgid "Languages"
+msgstr "Nyelvek"
+
+#: includes/admin.inc:256,186,109
+msgid "Save"
+msgstr "Mentés"
+
+#: includes/admin.inc:440,396,343
+msgid "Filter"
+msgstr "Szűrő"
+
+#: includes/admin.inc:311
+msgid "Delete string"
+msgstr "Karaktersorozat törlése"
+
+#: translation_table.module:43
+msgid "Menu"
+msgstr "Menü"
+
+#: translation_table.module:36
+msgid "Taxonomy"
+msgstr "Taxonómia"
+
+#: includes/admin.inc:310
+msgid "Translate"
+msgstr "Fordítás"
+
+#: includes/admin.inc:430; translation_table.module:53
+msgid "Content type"
+msgstr "Tartalomtípus"
+
+#: includes/admin.inc:388
+msgid "Vocabulary"
+msgstr "Szótár"
+
+#: includes/admin.inc:19
+msgid "Original"
+msgstr "Eredeti"
+
+#: translation_table.info:0
+msgid "Multilanguage"
+msgstr "Többnyelvűség"
+
+#: translation_table.info:0; translation_table.module:25
+msgid "Translation table"
+msgstr "Fordítási tábla"
+
+#: translation_table.module:26
+msgid "Edit menu and taxonomy translations"
+msgstr "Menü és taxonómia fordítások szerkesztése"
+
+#: translation_table.module:37
+msgid "Edit taxonomy translations"
+msgstr "Taxonómia fordítások szerkesztése"
+
+#: translation_table.module:44
+msgid "Edit menu translations"
+msgstr "Menü fordítások szerkesztése"
+
+#: translation_table.module:54
+msgid "Edit content type translations"
+msgstr "Tartalomtípus fordítások szerkesztése"
+
+#: translation_table.info:0
+msgid "UI for quick translation of taxonomy, menu and content type strings."
+msgstr ""
+"Felhasználói felület a taxonómia kifejezések, menük és "
+"tartalomtípusok gyors fordításához"
+
+#: includes/admin.inc:300,294,290,286
+msgid "Edit source"
+msgstr "Forrás szerkesztése"
+
+#: includes/admin.inc:286
+msgid "Edit term (@property)"
+msgstr "Kifejezés szerkesztése (@property)"
+
+#: includes/admin.inc:290
+msgid "Edit vocabulary (@property)"
+msgstr "Szótár szerkesztése (@property)"
+
+#: includes/admin.inc:294
+msgid "Edit menu item (@property)"
+msgstr "Menüelem szerkesztése (@property)"
+
+#: includes/admin.inc:300
+msgid "Edit @node_type (@property)"
+msgstr "@node_type szerkesztése (@property)"
+
+#: includes/admin.inc:420,367,333
+msgid "Select the languages to display."
+msgstr "A megjelenítendő nyelvek kiválasztása."
+
+#: includes/admin.inc:375
+msgid "- Display all taxonomy strings -"
+msgstr "- Minden taxonómia karaktersorozat megjelenítése -"
+
+#: includes/admin.inc:376
+msgid "- Display vocabulary strings -"
+msgstr "- Szótár karaktersorozatok megjelenítése -"
+
+#: includes/admin.inc:389
+msgid "Select the vocabulary."
+msgstr "Szótár kiválasztása."
+
+#: includes/admin.inc:431
+msgid "Select the content types to display."
+msgstr "A megjelenítendő tartalomtípusok kiválasztása."
+
+#: includes/admin.inc:432
+msgid "- All -"
+msgstr "- Mind -"
+

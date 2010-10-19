@@ -1,0 +1,44 @@
+body {
+	background: #E0E0E0;
+}
+
+/* Header ---------------------------- */
+#branding, #page {
+	width: 950px;
+	height: auto;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#branding h1 {
+	display: block;
+	width: 275px;
+	height: 35px;
+	float: right;
+	margin: 20px 35px 0 0;
+}
+#main, #left, #right {
+	min-height: 350px;
+	float: left;
+	margin: 0;
+}
+#main {
+	width: 100%;
+}
+#main.one-sidebar {
+	width: 650px;
+}
+#main.two-sidebars {
+	width: 350px;
+}
+#left, #right {
+	width: 300px;
+}
+#right {
+	text-align: right;
+}
+#page h1.page-title {
+	float: right;
+	clear: both;
+	text-align: right;
+	width: 950px;
+}
